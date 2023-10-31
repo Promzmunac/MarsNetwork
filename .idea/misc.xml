@@ -1,0 +1,26 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Promise/AndroidStudioProjects/MarsApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Promise/AndroidStudioProjects/MarsApp/app/src/main/res/layout/mars_model.xml" value="0.5" />
+        <entry key="..\:/Users/USER-PC/AndroidStudioProjects/MarsApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/USER-PC/AndroidStudioProjects/MarsApp/app/src/main/res/layout/fragment_home.xml" value="0.15489130434782608" />
+        <entry key="..\:/Users/USER-PC/AndroidStudioProjects/MarsApp/app/src/main/res/layout/fragment_images.xml" value="0.1" />
+        <entry key="..\:/Users/USER-PC/AndroidStudioProjects/MarsApp/app/src/main/res/layout/mars_model.xml" value="0.5" />
+        <entry key="..\:/Users/USER-PC/AndroidStudioProjects/MarsApp/app/src/main/res/layout/recycler.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="android.annotation.SuppressLint" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
